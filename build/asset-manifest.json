@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/liabletech/static/css/main.efeed118.chunk.css",
+    "main.js": "/liabletech/static/js/main.5c48e7e4.chunk.js",
+    "main.js.map": "/liabletech/static/js/main.5c48e7e4.chunk.js.map",
+    "runtime-main.js": "/liabletech/static/js/runtime-main.f25b3ed0.js",
+    "runtime-main.js.map": "/liabletech/static/js/runtime-main.f25b3ed0.js.map",
+    "static/css/2.6293a573.chunk.css": "/liabletech/static/css/2.6293a573.chunk.css",
+    "static/js/2.931767d3.chunk.js": "/liabletech/static/js/2.931767d3.chunk.js",
+    "static/js/2.931767d3.chunk.js.map": "/liabletech/static/js/2.931767d3.chunk.js.map",
+    "index.html": "/liabletech/index.html",
+    "static/css/2.6293a573.chunk.css.map": "/liabletech/static/css/2.6293a573.chunk.css.map",
+    "static/css/main.efeed118.chunk.css.map": "/liabletech/static/css/main.efeed118.chunk.css.map",
+    "static/js/2.931767d3.chunk.js.LICENSE.txt": "/liabletech/static/js/2.931767d3.chunk.js.LICENSE.txt",
+    "static/media/about.e5e4b179.jpg": "/liabletech/static/media/about.e5e4b179.jpg",
+    "static/media/appdevelopment.68a6e5c9.jpg": "/liabletech/static/media/appdevelopment.68a6e5c9.jpg",
+    "static/media/digital.159c8e65.jpg": "/liabletech/static/media/digital.159c8e65.jpg",
+    "static/media/home.4d430ef3.jpg": "/liabletech/static/media/home.4d430ef3.jpg",
+    "static/media/software.29147a23.jpg": "/liabletech/static/media/software.29147a23.jpg",
+    "static/media/webdevelopment.84437258.jpg": "/liabletech/static/media/webdevelopment.84437258.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f25b3ed0.js",
+    "static/css/2.6293a573.chunk.css",
+    "static/js/2.931767d3.chunk.js",
+    "static/css/main.efeed118.chunk.css",
+    "static/js/main.5c48e7e4.chunk.js"
+  ]
+}
